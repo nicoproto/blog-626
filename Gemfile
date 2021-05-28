@@ -25,6 +25,7 @@ gem 'turbolinks', '~> 5'
 # Gems added by me
 gem 'simple_form'
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'cloudinary', '~> 1.16.0'
 
 # ------------------
 
